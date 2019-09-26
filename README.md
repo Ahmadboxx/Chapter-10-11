@@ -2,7 +2,7 @@
 
 ## Chapter 10
 
-#Introducing Css
+# Introducing Css
 
 Css is more likely it’s function to be the preview of the page, what do you want the page to look likes,you can specify the background, the size of the text, the type, and the color.
 
