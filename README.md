@@ -14,9 +14,9 @@ Declaration made up of two parts
 
 Propert:color and value :Green
 
-##Chapter 11
+## Chapter 11
 
-#Color
+# Color
 
 You can specify anycolor in css in one of three ways :
 
