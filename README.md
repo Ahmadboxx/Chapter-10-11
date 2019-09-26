@@ -39,3 +39,17 @@ Low : test is hard to read
 High:test is easier to read
 
 Medium:is a little bit improves readability.
+
+Example of css To change color
+
+body {
+  color: red;
+}
+
+h1 {
+  color: #00ff00;
+}
+
+p.ex {
+  color: rgb(0,0,255);
+}
